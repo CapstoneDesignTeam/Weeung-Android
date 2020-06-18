@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PPLAS_AndroidApp-master-PPLAS_Project.iml" filepath="$PROJECT_DIR$/PPLAS_AndroidApp-master-PPLAS_Project.iml" group="PPLAS_Project" />
+      <module fileurl="file://$PROJECT_DIR$/PPLAS_Project.iml" filepath="$PROJECT_DIR$/PPLAS_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PPLAS_Project-app.iml" filepath="$PROJECT_DIR$/app/PPLAS_Project-app.iml" group="PPLAS_Project/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
